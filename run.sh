@@ -1,5 +1,6 @@
 #!/bin/bash
-
+echo "-Starting Minikube-"
+minikube start
 echo " Creating a Python Virtual Env "
 sudo apt install python3.12-venv -y
 python3 -m venv .venv
