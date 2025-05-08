@@ -2,3 +2,4 @@ google-adk
 praw
 python-dotenv 
 litellm
+uvx
