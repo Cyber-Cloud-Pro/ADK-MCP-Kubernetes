@@ -29,8 +29,6 @@ echo "starting minikube "
 echo "==== Installing kubectl ===="
 sudo snap install kubectl --classic
 echo "kubectl version: $(kubectl version --client --short)"
-sudo su 
-exit
 
 
 
