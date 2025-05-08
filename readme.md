@@ -90,12 +90,15 @@ chmod +x req.sh
 ### 4. Re Login to the terminal 
 If using AWS EC2 refreshing the browser also works
 
-### 5. Run the run.sh
+### 5. Add Gemini API in .env file
+[Get your Google Gemini API Key](https://aistudio.google.com/apikey)
+
+### 6. Run the run.sh
 ```bash 
 ./run.sh
 ```
 
-### 6. Explore the UI at Public-IP:8000 or LocolHost:8000
+### 7. Explore the UI at Public-IP:8000 or LocolHost:8000
 
 ---
 
