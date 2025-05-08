@@ -25,7 +25,6 @@ rm minikube-linux-amd64
 
 echo "Minikube version: $(minikube version)"
 echo "starting minikube "
-minikube start &
 
 echo "==== Installing kubectl ===="
 sudo snap install kubectl --classic
