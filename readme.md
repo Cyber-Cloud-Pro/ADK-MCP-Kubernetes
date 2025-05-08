@@ -1,7 +1,6 @@
-#  ☸️Kubernetes MCP Integration with Google ADK (Accessory Development Kit) !
+#  ☸️Kubernetes MCP Integration with Google ADK (Agent Development Kit) !
 
-To deploy a Modal Context Protocol (MCP) implementation in a Kubernetes environment using Minikube, and integrate it with Google’s Android Accessory Development Kit (ADK). The project aims to simulate a complete edge-to-cloud communication pipeline where Android accessories can interact with services orchestrated by Kubernetes.
-
+This project implements a lightweight intelligent control plane for Kubernetes using the Google Agent Development Kit (ADK) and a custom Modal Context Protocol (MCP) server, both developed in Python using FastAPI. These services run directly on the host machine (node) and interface with the Kubernetes cluster via kubectl.
 
 
 ---
